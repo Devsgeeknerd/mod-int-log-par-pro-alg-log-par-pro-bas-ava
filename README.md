@@ -8,7 +8,7 @@
 * [ ] [Instruções.](https://github.com/Devsgeeknnerd/cla-ins-int-log-par-pro-alg-log-par-pro-bas-ava)
 * [ ] [Algoritmos.](https://github.com/Devsgeeknerd/cla-alg-int-log-par-pro-alg-log-par-pro-bas-ava)
 * [ ] [Programas.](https://github.com/Devsgeeknerd/cla-pro-int-log-par-pro-alg-log-par-pro-bas-ava)
-* [ ] []()
+* [ ] [Exercícios.](https://github.com/Devsgeeknerd/exe-int-log-par-pro-lag-log-par-pro-bas-ava)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-int-log-par-pro-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
