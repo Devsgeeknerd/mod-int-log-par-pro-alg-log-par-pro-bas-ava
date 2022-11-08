@@ -3,6 +3,9 @@
 
 ***Conteúdo do Módulo:***
 
+* [ ] [Lógica.](https://github.com/Devsgeeknerd/cla-log-int-log-par-pro-alg-log-par-pro-bas-ava)
+* [ ] []()
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-int-log-par-pro-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
