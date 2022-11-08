@@ -6,3 +6,5 @@
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-int-log-par-pro-alg-log-par-pro-bas-ava?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-int-log-par-pro-alg-log-par-pro-bas-ava?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
+&nbsp;
